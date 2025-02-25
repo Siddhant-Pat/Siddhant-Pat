@@ -32,9 +32,10 @@ I'm a passionate Software Engineer who loves building innovative solutions.
 ---
 
 ### 📊 My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddhant-Pat&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=Siddhant-Pat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Siddhant-Pat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Siddhant-Pat)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
