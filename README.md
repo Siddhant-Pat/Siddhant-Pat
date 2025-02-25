@@ -32,7 +32,7 @@ I'm a passionate Software Engineer who loves building innovative solutions.
 ---
 
 ### 📊 My Stats :
-[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=Siddhant-Pat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Siddhant-Pat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Siddhant-Pat)](https://github.com/anuraghazra/github-readme-stats)
 
